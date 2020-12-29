@@ -1,4 +1,4 @@
-# javaxmas
+
     //Reads number of rows to be printed
     var n = 8;
  
@@ -19,3 +19,4 @@
         document.write("<br>");
 
         }
+
