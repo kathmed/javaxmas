@@ -1,4 +1,4 @@
-<js>
+
     //Reads number of rows to be printed
     var n = 8;
  
@@ -20,4 +20,3 @@
 
         }
 
-</js>
